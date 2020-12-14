@@ -6,4 +6,6 @@ pasta
 +
 +
 chicken currry
+beans
+pizza
 Thank you
